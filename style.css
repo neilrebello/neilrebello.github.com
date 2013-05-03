@@ -2,13 +2,14 @@ html {
 	background-image: url('img/ribsy.jpg');
 	height: auto;
 	width: 100%;
+	background-repeat: no-repeat;
 }
 
 body {
 	width: 600px;
 	font-family: 'Bangers', cursive;
 	margin: auto;
-	color: #474747;
+	color: #fff;
 }
 
 .firstelement {
@@ -22,6 +23,10 @@ h1 {
 
 h2 {
 	font-size: 45px;
+}
+
+h3 {
+	font-size: 32px;
 }
 
 p {
