@@ -1,0 +1,29 @@
+html {
+	background-image: url('img/ribsy.jpg');
+	height: auto;
+	width: 100%;
+}
+
+body {
+	width: 600px;
+	font-family: 'Bangers', cursive;
+	margin: auto;
+	color: #474747;
+}
+
+.firstelement {
+	margin-top: 100px;
+	text-align: center;
+}
+
+h1 {
+	font-size: 75pt;
+}
+
+h2 {
+	font-size: 45px;
+}
+
+p {
+	font-size: 20px;
+}
